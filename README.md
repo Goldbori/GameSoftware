@@ -58,7 +58,8 @@ Unity Editor에서 프로젝트를 직접 실행하거나 수정하려면 다음
 4. Firebase Authentication 설정을 구성합니다.
 5. Play Mode 또는 Build를 통해 실행합니다.
 ```
-
+!! 현재 UVC유료구독 해지 이슈로 인해서 권한 문제로 인해 에디터에서 실행이 불가한것을 확인했습니다.!!
+!! 실제로 게임을 실행할 때는 Build.zip파일을 압축해제한 후 Build/Game_Software.exe 를 실행해주시면 감사하겠습니다. !!
 ---
 
 ### 빌드된 실행 파일(.exe)로 플레이하는 경우
