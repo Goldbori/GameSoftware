@@ -184,3 +184,11 @@ G 키 : (Demolition 클래스 전용) 수류탄 투척
 | 이창민  | 줌 및 카메라 개선, 맵 안개 시야 구현,       |
 | 한승윤  | 클래스 시스템 및 게임로직 설계              |
 ---
+
+## 8. 참고자료
+
+1. 데모영상
+   - https://youtu.be/1A5cF8DOtZg
+
+2. 프로젝트 소스파일
+   - https://drive.google.com/file/d/1OLcdbczZwvLk1xNqVEEQObyVa0kMx2wj/view
